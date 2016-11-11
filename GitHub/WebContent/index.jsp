@@ -62,7 +62,7 @@ footer {
 			</div>
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">QED42</a></li>
+					<li class="active"><a href="#">QED4212</a></li>
 
 				</ul>
 
@@ -85,19 +85,7 @@ footer {
 
 			</div>
 			<div class="container-fluid text-center">
-		<div class="row content">
-			<div class="col-sm-2 sidenav">
-				<p>
-					<a href="#">We’ve been working with the QED team for over 3
-						years now. They helped us build our content platform ground up in
-						3 east Asian languages and English. Their team has been working
-						with our business and development teams seamlessly to integrate
-						our content platform with our internal workflow & database.
-						QED42’s solutions have been robust and helped us scale both
-						features and traffic on our sites.</a>
-				</p>
-
-			</div>
+		
 			
 			<div class="col-sm-8 text-left">
 				<h1>Welcome</h1>
